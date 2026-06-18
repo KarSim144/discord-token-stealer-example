@@ -1,5 +1,5 @@
 This is a discord session stealer example.
-This is purely educational and created so people are more aware of viruses. 
+This is purely educational and published so people are more aware of viruses. 
 Discord token stealers are often used to steal accounts and use bots to advertise stuff. 
 I am not responsible for what you do with this piece of code and its important to realise its illegal to invade anyones privacy in any way.
 Virustotal scan results are below.
